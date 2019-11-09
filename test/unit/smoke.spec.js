@@ -1,5 +1,5 @@
-describe("Smoke Teste", () => {
-  it("can handle the truth", () => {
+describe('Smoke Teste', () => {
+  it('can handle the truth', () => {
     expect(true).toEqual(true);
   });
 });
